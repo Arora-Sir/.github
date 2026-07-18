@@ -1,0 +1,11 @@
+# Default Sponsorship Channels for all Arora-Sir repositories
+# ============================================================
+# This file lives in the special `.github` repository and automatically
+# applies a Sponsor button to every public repo under Arora-Sir.
+#
+# Docs: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/displaying-a-sponsor-button-in-your-repository
+
+github: Arora-Sir
+custom:
+  - https://paypal.me/arorasir
+  - upi://pay?pa=mohit1998arora@yescred&pn=Mohit%20Arora&cu=INR&tn=Support%20Arora-Sir
